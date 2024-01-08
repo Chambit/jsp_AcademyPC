@@ -1,0 +1,7 @@
+package com.example.bean;
+
+public class MemberVO {
+	
+	//자바빈 - DB통신과정에서 변수처리를 쉽게하기 위한 데이터를 저장하는 클래스
+	
+}

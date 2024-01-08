@@ -1,0 +1,16 @@
+package com.myweb.util;
+
+import java.sql.Connection;
+import java.sql.PreparedStatement;
+
+public class JdbcUtil {
+
+	//공통부분
+	public static void close(Connection conn,
+						     PreparedStatement pstmt,
+						     ResultSet rs) {
+		
+	}
+	
+	
+}

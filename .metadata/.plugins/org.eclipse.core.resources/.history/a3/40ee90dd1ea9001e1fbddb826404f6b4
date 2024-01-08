@@ -1,0 +1,18 @@
+<%@page import="java.util.UUID"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	//간단한 랜덤 문자열 생성
+	String uuid = UUID.randomUUID().toString();
+
+%>    
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+</body>
+</html>

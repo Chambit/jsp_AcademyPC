@@ -1,0 +1,19 @@
+package com.example.bean;
+
+public class UserVO {
+
+	private String id;
+	private String pw;
+	private String name;
+	private String address;
+	private String kor;
+	private String math;
+	
+	private int sum;
+	private double avg;
+	
+	public UserVO() {
+		// TODO Auto-generated constructor stub
+	}
+	
+}

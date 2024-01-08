@@ -1,0 +1,40 @@
+<%@page import="java.util.Date"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%@ taglib prefix="fmt" uri="http://java.sun.com/jsp/jstl/fmt" %>  
+<%@ taglib prefix="c" uri="http://java.sun.com/jsp/jstl/core" %>      
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+	
+	<h3>fmt모듈</h3>
+	formatDate, parseDate, formatNumber, parseNumber
+	<br>
+	parse는 형변환입니다
+	format은 출력형식변환 
+	
+	<hr>
+	
+	<h3>parseDate</h3>
+	
+	<c:set var="a" value="<%=new Date() %>"/>
+	
+	<fmt:formatDate var="result" value="${a }" pattern="yyyy년MM월dd일"/>
+	<fmt:formatDate var="result2" value="${a }" pattern="yyyy-MM-dd HH:mm:ss"/>
+	${result }<br>
+	${result2 }<br>
+	
+	<h3>parseDate</h3>
+	
+	
+	
+	
+	
+	
+	
+</body>
+</html>

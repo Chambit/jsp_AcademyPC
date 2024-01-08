@@ -1,0 +1,38 @@
+package com.myweb.user.model;
+
+public class UserDAO {
+	
+	//싱글톤
+	//1. 객체 1개 생성
+	private static UserDAO instance = new UserDAO();
+	//2. 생성자 private
+	private UserDAO() {
+	}
+	//3. getter메서드
+	public static UserDAO getInstance() {
+		return instance;
+	}
+	
+	/////////////////////////////////////////////
+	
+	public int idCheck(String id) {
+		int result = 0;
+		
+		
+		
+		
+		return result;
+	}
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+	
+}

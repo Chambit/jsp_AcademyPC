@@ -1,0 +1,15 @@
+package com.myweb.user.model;
+
+import java.sql.Timestamp;
+
+public class UserVO {
+	
+	private String id;
+	private String pw;
+	private String name;
+	private String email;
+	private String address;
+	private String gender;
+	private Timestamp regdate;
+	
+}

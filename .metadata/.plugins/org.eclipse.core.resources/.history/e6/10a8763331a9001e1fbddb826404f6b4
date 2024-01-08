@@ -1,0 +1,13 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	//application를 사용해서 예약정보 지정
+	
+	//만약 app에 값이 있다면, 가져와서 변수에 저장
+	
+	
+	//사용자가 예약한 값을 app에 저장
+	
+	
+
+%>

@@ -1,0 +1,25 @@
+<%@page import="java.util.ArrayList"%>
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<%
+	//application를 사용해서 예약정보 지정
+	String[] arr = request.getParameterValues("seat"); //사용자가 선택한값
+	
+	ArrayList<String> list = new ArrayList<>();
+	
+	//만약 app에 값이 있다면, 가져와서 변수에 저장
+	if(application.getAttribute("list") != null ) {
+		list = (ArrayList<String>)application.getAttribute("list");
+	}
+	
+	//사용자가 예약한 값을 app에 저장
+	
+	
+	
+	
+	
+	
+	
+	
+
+%>

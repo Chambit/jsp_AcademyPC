@@ -1,0 +1,8 @@
+package com.myweb.util;
+
+public class JdbcUtil {
+
+	//공통부분
+	
+	
+}

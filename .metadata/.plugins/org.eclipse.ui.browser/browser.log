@@ -1,0 +1,23 @@
+
+12월 28, 2023 12:40:13.13 NEW SESSION
+12월 28, 2023 12:40:13.15 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+12월 29, 2023 14:31:44.59 NEW SESSION
+12월 29, 2023 14:31:44.60 [10268:26252:1229/143144.589:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 29, 2023 14:42:51.81 [10268:26252:1229/144251.816:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+12월 29, 2023 14:42:55.69 [10268:26252:1229/144255.690:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+1월 02, 2024 11:15:58.89 NEW SESSION
+1월 02, 2024 11:15:58.91 [8936:10628:0102/111558.880:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 02, 2024 14:31:29.41 [16916:20844:0102/143129.412:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+1월 02, 2024 15:37:09.96 [14276:22088:0102/153709.968:ERROR:CONSOLE(0)] "ReferenceError: dragEvent is not defined", source:  (0)
+
+1월 03, 2024 17:14:12.10 NEW SESSION
+1월 03, 2024 17:14:12.12 [23736:10668:0103/171412.087:ERROR:device_event_log_impl.cc(192)] [17:14:12.086] USB: usb_service_win.cc:104 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: 요소가 없습니다. (0x490)
+
+1월 04, 2024 12:40:14.39 NEW SESSION
+1월 04, 2024 12:40:14.41 INFO: Created TensorFlow Lite XNNPACK delegate for CPU.
+
+1월 08, 2024 12:11:13.99 NEW SESSION
+1월 08, 2024 12:11:14.01 [9312:9172:0108/121113.994:ERROR:backend_impl.cc(984)] Critical error found -8
+1월 08, 2024 12:11:15.70 [9312:8620:0108/121115.703:ERROR:persistent_memory_allocator.cc(890)] Corruption detected in shared-memory segment.
